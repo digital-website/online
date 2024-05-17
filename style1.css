@@ -117,11 +117,11 @@ button {
   background-color: #41B06E; /* Green */
   border: none;
   color: white;
-  padding: 8px 10px;
+  padding: 0.5px 3.5px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 12px;
+  font-size: 10px;
   border-radius: 12px;
  
 }
